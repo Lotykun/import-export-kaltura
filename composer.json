@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "microsoft/azure-storage-blob": "^1.2",
+        "kaltura/api-client-library": "^14.4"
+    }
+}
